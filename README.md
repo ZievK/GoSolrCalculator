@@ -1,0 +1,2 @@
+# GoSolrCalculator
+ 
